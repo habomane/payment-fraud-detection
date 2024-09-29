@@ -45,13 +45,4 @@ public class Payment {
         this.currency = currency;
     }
 
-    public String getDataHash(String data) {
-        // implements hashing here
-        return data;
-    }
-
-    public String getUnhashData(String data) {
-        return data; // should be unhashed here
-    }
-
 }
