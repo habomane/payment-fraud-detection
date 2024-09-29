@@ -1,0 +1,11 @@
+/Users/habsoomane/Projects/payment-fraud-detection/src/main/java/org/fraud/FraudDetectionApplication.java
+/Users/habsoomane/Projects/payment-fraud-detection/src/main/java/org/fraud/controllers/DetectionController.java
+/Users/habsoomane/Projects/payment-fraud-detection/src/main/java/org/fraud/controllers/RiskController.java
+/Users/habsoomane/Projects/payment-fraud-detection/src/main/java/org/fraud/models/DetectionResult.java
+/Users/habsoomane/Projects/payment-fraud-detection/src/main/java/org/fraud/models/Risk.java
+/Users/habsoomane/Projects/payment-fraud-detection/src/main/java/org/fraud/services/DetectionService.java
+/Users/habsoomane/Projects/payment-fraud-detection/src/main/java/org/fraud/services/IDetectionService.java
+/Users/habsoomane/Projects/payment-fraud-detection/src/main/java/org/fraud/services/IRiskService.java
+/Users/habsoomane/Projects/payment-fraud-detection/src/main/java/org/fraud/services/RiskService.java
+/Users/habsoomane/Projects/payment-fraud-detection/src/main/java/org/fraud/tables/TestTable.java
+/Users/habsoomane/Projects/payment-fraud-detection/src/main/java/org/fraud/types/PaymentDecision.java

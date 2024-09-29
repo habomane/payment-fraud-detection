@@ -1,7 +1,7 @@
-target/
+tarset/
 !.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+!**/src/main/**/tarset/
+!**/src/test/**/tarset/
 
 ### IntelliJ IDEA ###
 .idea/modules.xml

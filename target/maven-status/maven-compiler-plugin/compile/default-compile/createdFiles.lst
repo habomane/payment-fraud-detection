@@ -1,0 +1,11 @@
+org/fraud/FraudDetectionApplication.class
+org/fraud/models/DetectionResult.class
+org/fraud/controllers/DetectionController.class
+org/fraud/types/PaymentDecision.class
+org/fraud/models/Risk.class
+org/fraud/services/IDetectionService.class
+org/fraud/tables/TestTable.class
+org/fraud/services/DetectionService.class
+org/fraud/services/IRiskService.class
+org/fraud/controllers/RiskController.class
+org/fraud/services/RiskService.class
